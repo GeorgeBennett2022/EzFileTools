@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzFileTools", "EzFileTools\EzFileTools.csproj", "{411857CC-5B23-434C-9DBA-2EA4951F3865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzFileTools.IntegrationTests", "EzFileTools.IntegrationTests\EzFileTools.IntegrationTests.csproj", "{29F14DF6-DC18-4BDF-B135-6E040CA65C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411857CC-5B23-434C-9DBA-2EA4951F3865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411857CC-5B23-434C-9DBA-2EA4951F3865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411857CC-5B23-434C-9DBA-2EA4951F3865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411857CC-5B23-434C-9DBA-2EA4951F3865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F14DF6-DC18-4BDF-B135-6E040CA65C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F14DF6-DC18-4BDF-B135-6E040CA65C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F14DF6-DC18-4BDF-B135-6E040CA65C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F14DF6-DC18-4BDF-B135-6E040CA65C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2ED462-81DB-4775-B984-86D41678A6A8}
+	EndGlobalSection
+EndGlobal
